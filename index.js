@@ -8,6 +8,8 @@ function ShiftByLetters(inputString, shiftBy) {
             inputString = x.join('');
             i++;
         }
+    } else {
+        inputString = "invalid input";
     }
     return inputString;
 }
