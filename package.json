@@ -1,0 +1,22 @@
+{
+  "name": "letter-shift",
+  "version": "1.0.0",
+  "description": "This helps user to shift a letter from a word from left to right by number of times user wants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravTidke/ShiftByLetters.git"
+  },
+  "keywords": [
+    "shiftletters"
+  ],
+  "author": "Gaurav Tidke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravTidke/ShiftByLetters/issues"
+  },
+  "homepage": "https://github.com/GauravTidke/ShiftByLetters#readme"
+}
