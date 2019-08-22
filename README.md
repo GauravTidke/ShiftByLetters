@@ -7,3 +7,7 @@ This helps user to shift a letter from a word from left to right by number of ti
 ` npm i ShiftByLetters `
 
 # How to use ?
+
+` import { ShiftLetters } from 'letter-shift' `
+
+` ShiftLetters('GauravTidke', 5);`
