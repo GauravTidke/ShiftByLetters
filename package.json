@@ -1,6 +1,6 @@
 {
   "name": "letter-shift", 
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "This helps user to shift a letter from a word from left to right by number of times user wants",
   "main": "index.js",
   "scripts": {
